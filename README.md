@@ -7,3 +7,4 @@ https://discord.gg/hwU37VR782
 
 <img width="768" height="520" alt="image" src="https://github.com/user-attachments/assets/976162e8-e39a-4e5a-9f12-ec3e94a3a79d" />
 
+Firmware is also available.
